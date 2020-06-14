@@ -14,8 +14,9 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fix BioProtect compatibility</change>
-		<change>Internal optimizations</change>
+		<change>Added feature to display sheets as alerts</change>
+		<change>Added tweak icon</change>
+		<change>Some bug fixes</change>
 	</changelog>
 	<links></links>
 </package>
