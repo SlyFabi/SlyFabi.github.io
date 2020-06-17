@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.2.0</version>
+		<change>Added destructive button customisation</change>
+		<change>Added tap to dismiss anywhere</change>
+		<change>Added remove cancel button</change>
+		<change>Disable theming for some alerts with custom views</change>
+		<change>Minor bug fixes</change>
+	</changes>
+	<changes>
 		<version>1.1.0</version>
 		<change>Added feature to display sheets as alerts</change>
 		<change>Added tweak icon</change>
