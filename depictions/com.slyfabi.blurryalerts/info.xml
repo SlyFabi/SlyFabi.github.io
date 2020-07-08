@@ -1,7 +1,7 @@
 <package>
 	<id>com.slyfabi.blurryalerts</id>
 	<name>Blurry Alerts</name>
-	<version>1.2.1</version>
+	<version>1.2.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -10,12 +10,12 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>tvOS style alerts!</description>
+		<description>tvOS style alerts! Open Source: https://github.com/SlyFabi/BlurryAlerts</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fix color settings not applying after respring</change>
-		<change>Fix that some alerts would not be themed</change>
+		<change>Fix touch not responsive after displaying alert</change>
+		<change>Fix dismiss anywhere on SpringBoard</change>
 	</changelog>
 	<links></links>
 </package>

@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.2.2</version>
+		<change>Fix touch not responsive after displaying alert</change>
+		<change>Fix dismiss anywhere on SpringBoard</change>
+	</changes>
+	<changes>
 		<version>1.2.1</version>
 		<change>Fix color settings not applying after respring</change>
 		<change>Fix that some alerts would not be themed</change>
