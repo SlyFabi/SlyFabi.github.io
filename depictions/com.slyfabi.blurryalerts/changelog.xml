@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.2.3</version>
+		<change>Fix for Safe Mode with iOS 14</change>
+		<change>Now uses libsparkcolourpicker instead of Alderis</change>
+	</changes>
+	<changes>
 		<version>1.2.2</version>
 		<change>Fix touch not responsive after displaying alert</change>
 		<change>Fix dismiss anywhere on SpringBoard</change>
